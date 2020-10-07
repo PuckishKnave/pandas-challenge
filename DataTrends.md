@@ -1,4 +1,4 @@
 Three observable trends in Heroes of Pymoli data:  
 1. The ratio of male to female players is overwhelmingly male players coming in at 84.03% compared to a very low 14.06% for the female player base; the remaining player base marked their gender as other/non-disclosed.  
 2. Out of the eight age demographics in the dataset there are two age demographics that make up the bulk of the player base. Age range 15-19 was 25.64% and age range 20-24 was 41.67% of the player base; the rest of the age demographics did not exceed 10% of the player base.  
-3. The most profitable items in the dataset are not necessarily the most popular ones due to variance in item price.
+3. Because of the variance in item price the most profitable item is not necessarily going to be the most popular item. It happens to be in this dataset but you can see that in some instances an item with slightly less popularity than another is more profitable because of a higher item price.
